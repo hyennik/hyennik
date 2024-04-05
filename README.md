@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hyennik
+- 👋 Hi, I’m Mariana
 - 👀 I’m interested in games development
 - 🌱 I’m currently learning development of websites (front end)
 - 📫 How to reach me: @hyennik or www.linkedin.com/in/mariana-gonçalves-de-brito-a9b811216
